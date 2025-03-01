@@ -1,4 +1,4 @@
-![Logo Page](/paufrancisco/resources/logo.png)
+![Logo Page](./resources/logo.png)
 
 <p align="center"> 
     <a href="https://www.tiktok.com/@java_doctor">
