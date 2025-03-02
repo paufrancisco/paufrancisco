@@ -16,7 +16,6 @@ I'm currently a 3rd year student at STI Dasmarinas, pursuing a BS in Computer Sc
 ### My Tech Stack
 #### Languages 
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python) 
-![C++](https://img.shields.io/badge/c++-white?style=for-the-badge&logo=cplusplus&logoColor=black) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript) 
 ![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=black) 
  
