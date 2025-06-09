@@ -11,7 +11,7 @@
 
 Hi! I'm Paulo Faustiniel Angelo L. Francisco and programming is my passion.
 
-I'm currently a 3rd year student at STI Dasmarinas, pursuing a BS in Computer Science. I'm focusing on Data Science and Engineering and also have a keen interest in Backend Web Development.
+I’m a 4th-year Computer Science student at STI College Dasmariñas, currently focusing on Data Science and Software Engineering. I also have a strong interest in Backend Web Development. I’m actively looking for an internship opportunity where I can apply my skills, gain real-world experience as well as contribute meaningfully to a development team.
 
 ### My Tech Stack
 #### Languages 
@@ -30,7 +30,13 @@ I'm currently a 3rd year student at STI Dasmarinas, pursuing a BS in Computer Sc
 
 #### Web Development
 ![HTML5](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+#### Mobile Development
+![Android Studio](https://img.shields.io/badge/Android%20Studio-white?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
+
+
+
 
 <div align="center">
     <h2>Check out my <b>stats</b>!</h2>
