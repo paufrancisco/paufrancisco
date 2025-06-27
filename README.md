@@ -11,7 +11,7 @@
 
 Hi! I'm Paulo Faustiniel Angelo L. Francisco and programming is my passion.
 
-I’m a 4th-year Computer Science student at STI College Dasmariñas, currently focusing on Data Science and Software Engineering. I also have a strong interest in Backend Web Development. I’m actively looking for an internship opportunity where I can apply my skills, gain real-world experience as well as contribute meaningfully to a development team.
+I’m a 4th-year Computer Science student at STI College Dasmariñas, currently focusing on Data Science, Software Engineering and Web Development. I also have a strong interest in Backend Web Development. I’m actively looking for an internship opportunity where I can apply my skills, gain real-world experience as well as contribute meaningfully to a development team.
 
 ### My Tech Stack
 #### Languages 
